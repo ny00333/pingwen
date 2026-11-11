@@ -1,0 +1,38 @@
+{
+  "name": "暗夜",
+  "avatar_text": "◈",
+  "avatar_image": "",
+  "colors": {
+    "bg": "#1b1d24",
+    "panel": "#23262f",
+    "accent": "#6e9bff",
+    "accent_hover": "#8ab0ff",
+    "accent_text": "#0e1118",
+    "text": "#e9ecf4",
+    "muted": "#939cae",
+    "border": "#323745",
+    "danger": "#ff6b6b",
+    "disabled": "#2a2d38"
+  },
+  "bg_alpha": 242,
+  "radius": 14,
+  "font_family": "Microsoft YaHei UI",
+  "font_size": 13,
+  "opacity": 1.0,
+  "extra_qss": "",
+  "mascot": {
+    "size": 78,
+    "idle_image": "../../assets/whale/dsniang.png",
+    "react_image": "../../assets/whale/react_money.png",
+    "press_sound": "../../assets/whale/Ya1.mp3",
+    "release_sound": "../../assets/whale/Ya2.mp3",
+    "bubble_close_ms": 6500,
+    "lines": [
+      "大肥鱼在盯着钱包呢～",
+      "点一下，鱼就少一口饭",
+      "问答由我，省钱靠你",
+      "又要问一道题了吗？",
+      "今日份的 token 已记好账"
+    ]
+  }
+}

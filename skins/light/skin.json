@@ -1,0 +1,38 @@
+{
+  "name": "晨光",
+  "avatar_text": "☀",
+  "avatar_image": "",
+  "colors": {
+    "bg": "#f4f6fb",
+    "panel": "#ffffff",
+    "accent": "#3b6fe0",
+    "accent_hover": "#5b8bf0",
+    "accent_text": "#ffffff",
+    "text": "#20242e",
+    "muted": "#6b7385",
+    "border": "#d8dde9",
+    "danger": "#d64545",
+    "disabled": "#e7eaf2"
+  },
+  "bg_alpha": 246,
+  "radius": 16,
+  "font_family": "Microsoft YaHei UI",
+  "font_size": 13,
+  "opacity": 1.0,
+  "extra_qss": "",
+  "mascot": {
+    "size": 78,
+    "idle_image": "../../assets/whale/dsniang.png",
+    "react_image": "../../assets/whale/react_money.png",
+    "press_sound": "../../assets/whale/Ya1.mp3",
+    "release_sound": "../../assets/whale/Ya2.mp3",
+    "bubble_close_ms": 6500,
+    "lines": [
+      "大肥鱼在盯着钱包呢～",
+      "点一下，鱼就少一口饭",
+      "问答由我，省钱靠你",
+      "又要问一道题了吗？",
+      "今日份的 token 已记好账"
+    ]
+  }
+}

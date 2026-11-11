@@ -1,0 +1,25 @@
+# 本地虚拟环境与缓存
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 本地配置：含真实 API Key，禁止提交
+config.json
+
+# 美术素材：授权范围不明确，不随本仓库分发
+# 需要时请按 README「素材与开源说明」自行放入
+assets/whale/
+assets/aemeath/
+
+# 编辑器与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 运行产物
+*.log
+dist/
+build/

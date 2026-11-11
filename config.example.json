@@ -1,0 +1,28 @@
+{
+  "region": null,
+  "window": { "x": null, "y": null, "w": 465, "h": 660 },
+  "pet": { "x": null, "y": null },
+  "skin": "default",
+  "opacity": 1.0,
+  "mode": "ocr",
+  "prompt_style": "concise",
+  "answer_only": false,
+  "auto_answer": false,
+  "api": {
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key": "",
+    "model": "qwen-flash",
+    "extra_models": [],
+    "temperature": 0.2,
+    "max_tokens": 2048,
+    "timeout": 90
+  },
+  "billing": {
+    "total": 0.0,
+    "today": 0.0,
+    "date": "",
+    "requests": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0
+  }
+}
