@@ -174,6 +174,12 @@ config.json            本地配置，保存区域、窗口/形象位置、API �
 
 代码部分可自行选择开源许可；若后续添加 `LICENSE`，建议注明「代码按该许可授权，`assets/` 素材不在授权范围内」。
 
+## 致谢与 NOTICE
+
+- 界面交互设计参考 [louke6572/dsh-whale-widget-plus](https://github.com/louke6572/dsh-whale-widget-plus)。该仓库**代码**为 MIT 许可；本项目未复制其源码，界面与形象交互均为 Python + PySide6 独立实现。
+- 本项目**不包含**该仓库 `assets/` 下的任何图片、动图或音效。其 `PROVENANCE.md` 明确 `assets/**` 不适用 MIT、不授予再许可，仅允许随原插件运行使用。
+- 若权利人认为本仓库存在不当使用，欢迎提 issue，核实后会立即移除相关内容。
+
 ## 已知限制
 
 - 区域选择限制在单块屏幕内，不支持跨屏框选。
